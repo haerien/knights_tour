@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int control(int baslangicSatir, int baslangicSutun);
+int control(int startingX, int startingY);
 
 int sleep();
 int system();
